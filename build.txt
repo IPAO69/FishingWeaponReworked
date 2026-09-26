@@ -1,0 +1,4 @@
+displayName = FishingWeaponRework
+author = I_Pao69
+version = 0.7000
+modSide = Both
