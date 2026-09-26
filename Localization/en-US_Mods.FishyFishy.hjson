@@ -1,0 +1,76 @@
+# This file will automatically update with entries for new content after a build and reload.
+# Please read https://github.com/tModLoader/tModLoader/wiki/Localization to learn more about localization and these files.
+
+Items: {
+}
+
+Projectiles: {
+	FalconBladeSwingProjectile.DisplayName: Falcon Blade Swing Projectile
+	PurpleClubberfishSwingProjectile.DisplayName: Purple Clubberfish Swing Projectile
+	NautilusBloodShot.DisplayName: Nautilus Blood Shot
+	BloodNautilusShot.DisplayName: Blood Nautilus Shot
+	BladeTongueProjectile.DisplayName: Blade Tongue Projectile
+	SwordFishProjectile.DisplayName: Sword Fish Projectile
+	BladeTongueFlame.DisplayName: Blade Tongue Flame
+	BladeTongueWave.DisplayName: Blade Tongue Wave
+	BladeTongueIchorBeam.DisplayName: Blade Tongue Ichor Beam
+	ObsidianSwordfishDashProjectile.DisplayName: Obsidian Swordfish Dash Projectile
+	ToxicBubbleProjectile.DisplayName: Toxic Bubble Projectile
+	AnchorSwingProjectile.DisplayName: Anchor Swing Projectile
+	AnchorThrownProjectile.DisplayName: Anchor Thrown Projectile
+	AnchorExplosionVisual.DisplayName: Anchor Explosion Visual
+	CrystalSerpentShard.DisplayName: Crystal Serpent Shard
+	CrystalSpark.DisplayName: Crystal Spark
+	CrystalBlast.DisplayName: Crystal Blast
+}
+
+Configs: {
+	FishyFishyConfig: {
+		DisplayName: Fishy Fishy Config
+
+		Tier1MaxMana: {
+			Label: Tier1 Max Mana
+			Tooltip: ""
+		}
+
+		Tier2MaxMana: {
+			Label: Tier2 Max Mana
+			Tooltip: ""
+		}
+
+		Tier3MaxMana: {
+			Label: Tier3 Max Mana
+			Tooltip: ""
+		}
+
+		Tier1ManaCost: {
+			Label: Tier1 Mana Cost
+			Tooltip: ""
+		}
+
+		Tier2ManaCost: {
+			Label: Tier2 Mana Cost
+			Tooltip: ""
+		}
+
+		Tier3ManaCost: {
+			Label: Tier3 Mana Cost
+			Tooltip: ""
+		}
+
+		Tier3UseSpeedMultiplier: {
+			Label: Tier3 Use Speed Multiplier
+			Tooltip: ""
+		}
+
+		Tier0ManaCost: {
+			Label: Tier0 Mana Cost
+			Tooltip: ""
+		}
+
+		ManaCostPercent: {
+			Label: Mana Cost Percent
+			Tooltip: ""
+		}
+	}
+}

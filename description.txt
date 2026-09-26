@@ -1,0 +1,18 @@
+FishingWeaponReworked overhauls the behavior and mechanics of fishing-related weaponry in Terraria.
+
+== Weapon Reworks ==
+- Anchor: Extremely slow attack speed paired with massive damage output.
+- Blade Tongue: Gains a chargeable rage buff on use.
+- Blood Rain Bow: Features a chargeable blood shot ability.
+- Crystal Serpent: Scales its power tier dynamically based on your current max mana.
+- Falcon Blade: Performs a slash attack that simultaneously fires a gun.
+- Frost Daggerfish: Updated visual effects and improved combat utility.
+- Obsidian Swordfish: Grants a powerful dash attack maneuver.
+- Purple Clubberfish: Features a heavy chargeable swing attack.
+- Swordfish: Functions as a throwable weapon.
+- Toxikarp: Unleashes a rapid bullet volley every 30 shots.
+
+== Crate Reworks ==
+- Crates feature upgraded visual.
+
+Feel free to leave feedback and report bugs in the comments!

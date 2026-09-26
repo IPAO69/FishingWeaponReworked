@@ -1,0 +1,12 @@
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\bin\Release\net8.0\FishyFishy.deps.json
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\bin\Release\net8.0\FishyFishy.dll
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\bin\Release\net8.0\FishyFishy.pdb
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.csproj.AssemblyReference.cache
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.AssemblyInfoInputs.cache
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.AssemblyInfo.cs
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.csproj.CoreCompileInputs.cache
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.dll
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\refint\FishyFishy.dll
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\FishyFishy.pdb
+C:\Users\User\เอกสาร\My Games\Terraria\tModLoader\ModSources\FishyFishy\obj\Release\net8.0\ref\FishyFishy.dll
